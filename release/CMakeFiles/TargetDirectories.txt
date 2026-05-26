@@ -1,0 +1,5 @@
+D:/cpp/gis1/out/build/release/CMakeFiles/SpatialAnalysisEngine.dir
+D:/cpp/gis1/out/build/release/CMakeFiles/edit_cache.dir
+D:/cpp/gis1/out/build/release/CMakeFiles/rebuild_cache.dir
+D:/cpp/gis1/out/build/release/CMakeFiles/SpatialAnalysisEngine_autogen_timestamp_deps.dir
+D:/cpp/gis1/out/build/release/CMakeFiles/SpatialAnalysisEngine_autogen.dir
